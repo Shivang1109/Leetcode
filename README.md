@@ -148,3 +148,19 @@ This project is licensed under the MIT License.
 If you find this repository helpful, consider giving it a **star**!
 
 **Happy Coding! 🚀**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shivang1109/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shivang1109/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shivang1109/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+<!---LeetCode Topics End-->
