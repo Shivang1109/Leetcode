@@ -176,10 +176,15 @@ If you find this repository helpful, consider giving it a **star**!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/0020-valid-parentheses) |
 | [0709-to-lower-case](https://github.com/Shivang1109/Leetcode/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/Shivang1109/Leetcode/tree/master/1528-shuffle-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shivang1109/Leetcode/tree/master/0136-single-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
