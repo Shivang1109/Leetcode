@@ -154,6 +154,7 @@ If you find this repository helpful, consider giving it a **star**!
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shivang1109/Leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Shivang1109/Leetcode/tree/master/0136-single-number) |
 | [1528-shuffle-string](https://github.com/Shivang1109/Leetcode/tree/master/1528-shuffle-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivang1109/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -187,4 +188,8 @@ If you find this repository helpful, consider giving it a **star**!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Shivang1109/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
