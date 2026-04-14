@@ -154,6 +154,7 @@ If you find this repository helpful, consider giving it a **star**!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shivang1109/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Shivang1109/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Shivang1109/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Shivang1109/Leetcode/tree/master/0136-single-number) |
@@ -235,6 +236,7 @@ If you find this repository helpful, consider giving it a **star**!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shivang1109/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Shivang1109/Leetcode/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shivang1109/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Shivang1109/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
