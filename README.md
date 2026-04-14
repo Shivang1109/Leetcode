@@ -161,6 +161,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivang1109/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Shivang1109/Leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shivang1109/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivang1109/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Shivang1109/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shivang1109/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Shivang1109/Leetcode/tree/master/3701-compute-alternating-sum) |
@@ -178,6 +179,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivang1109/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Shivang1109/Leetcode/tree/master/2235-add-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shivang1109/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivang1109/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Number Theory
 |  |
 | ------- |
