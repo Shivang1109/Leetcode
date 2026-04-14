@@ -177,6 +177,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0268-missing-number](https://github.com/Shivang1109/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Shivang1109/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shivang1109/Leetcode/tree/master/0342-power-of-four) |
+| [0504-base-7](https://github.com/Shivang1109/Leetcode/tree/master/0504-base-7) |
 | [0976-largest-perimeter-triangle](https://github.com/Shivang1109/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1952-three-divisors](https://github.com/Shivang1109/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivang1109/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -201,6 +202,7 @@ If you find this repository helpful, consider giving it a **star**!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/0020-valid-parentheses) |
+| [0504-base-7](https://github.com/Shivang1109/Leetcode/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/Shivang1109/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Shivang1109/Leetcode/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/Shivang1109/Leetcode/tree/master/1528-shuffle-string) |
