@@ -164,6 +164,7 @@ If you find this repository helpful, consider giving it a **star**!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shivang1109/Leetcode/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Shivang1109/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Shivang1109/Leetcode/tree/master/0268-missing-number) |
 | [1952-three-divisors](https://github.com/Shivang1109/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivang1109/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -171,6 +172,7 @@ If you find this repository helpful, consider giving it a **star**!
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Shivang1109/Leetcode/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Shivang1109/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivang1109/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Enumeration
@@ -206,4 +208,8 @@ If you find this repository helpful, consider giving it a **star**!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shivang1109/Leetcode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Shivang1109/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
