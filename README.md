@@ -154,6 +154,7 @@ If you find this repository helpful, consider giving it a **star**!
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Shivang1109/Leetcode/tree/master/0136-single-number) |
 | [1528-shuffle-string](https://github.com/Shivang1109/Leetcode/tree/master/1528-shuffle-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivang1109/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Shivang1109/Leetcode/tree/master/2239-find-closest-number-to-zero) |
@@ -177,4 +178,8 @@ If you find this repository helpful, consider giving it a **star**!
 | ------- |
 | [0709-to-lower-case](https://github.com/Shivang1109/Leetcode/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/Shivang1109/Leetcode/tree/master/1528-shuffle-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Shivang1109/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
