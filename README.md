@@ -198,6 +198,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0326-power-of-three](https://github.com/Shivang1109/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shivang1109/Leetcode/tree/master/0342-power-of-four) |
 | [0504-base-7](https://github.com/Shivang1109/Leetcode/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/Shivang1109/Leetcode/tree/master/0507-perfect-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Shivang1109/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1952-three-divisors](https://github.com/Shivang1109/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivang1109/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
