@@ -167,6 +167,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0922-sort-array-by-parity-ii](https://github.com/Shivang1109/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Shivang1109/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1528-shuffle-string](https://github.com/Shivang1109/Leetcode/tree/master/1528-shuffle-string) |
+| [1646-get-maximum-in-generated-array](https://github.com/Shivang1109/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
 | [1672-richest-customer-wealth](https://github.com/Shivang1109/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/Shivang1109/Leetcode/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/Shivang1109/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -302,6 +303,7 @@ If you find this repository helpful, consider giving it a **star**!
 | ------- |
 | [0258-add-digits](https://github.com/Shivang1109/Leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Shivang1109/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1646-get-maximum-in-generated-array](https://github.com/Shivang1109/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Shivang1109/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shivang1109/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Shivang1109/Leetcode/tree/master/3701-compute-alternating-sum) |
