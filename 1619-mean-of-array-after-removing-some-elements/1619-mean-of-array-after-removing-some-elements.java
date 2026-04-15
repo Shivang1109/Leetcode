@@ -4,7 +4,7 @@ class Solution {
         int del=n/20;
         Arrays.sort(arr);
         int p1=0;
-        int p2=arr.length-1;
+        int p2=n-1;
         for(int i=1;i<=del;i++){
             p1++;
             p2--;
