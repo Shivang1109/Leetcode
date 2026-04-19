@@ -284,6 +284,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0136-single-number](https://github.com/Shivang1109/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Shivang1109/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shivang1109/Leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Shivang1109/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Shivang1109/Leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Shivang1109/Leetcode/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shivang1109/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -367,6 +368,7 @@ If you find this repository helpful, consider giving it a **star**!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivang1109/Leetcode/tree/master/0053-maximum-subarray) |
+| [0338-counting-bits](https://github.com/Shivang1109/Leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Shivang1109/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Shivang1109/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Matrix
