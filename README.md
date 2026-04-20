@@ -298,6 +298,7 @@ If you find this repository helpful, consider giving it a **star**!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Shivang1109/Leetcode/tree/master/0155-min-stack) |
 ## Binary Search
 |  |
 | ------- |
@@ -422,4 +423,8 @@ If you find this repository helpful, consider giving it a **star**!
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Shivang1109/Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Shivang1109/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
