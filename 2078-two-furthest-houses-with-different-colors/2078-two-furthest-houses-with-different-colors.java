@@ -2,14 +2,14 @@ class Solution {
     public int maxDistance(int[] colors) {
         int i=0;
         int j=colors.length-1;
-        while(colors[i]==colors[j]){
+        while(j>i && colors[i]==colors[j]){
             j--;
             
         }
         int max1=j-i;
         int k=0;
         int l=colors.length-1;
-        while(colors[k]==colors[l]){
+        while(l>k && colors[k]==colors[l]){
             k++;
             
         }
