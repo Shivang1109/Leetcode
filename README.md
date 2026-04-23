@@ -314,6 +314,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivang1109/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shivang1109/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Shivang1109/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Shivang1109/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Shivang1109/Leetcode/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shivang1109/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shivang1109/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -446,4 +447,8 @@ If you find this repository helpful, consider giving it a **star**!
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shivang1109/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Shivang1109/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
