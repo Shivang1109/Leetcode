@@ -284,6 +284,7 @@ If you find this repository helpful, consider giving it a **star**!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Shivang1109/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shivang1109/Leetcode/tree/master/0344-reverse-string) |
 | [0504-base-7](https://github.com/Shivang1109/Leetcode/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/Shivang1109/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -412,6 +413,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivang1109/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shivang1109/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Shivang1109/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Shivang1109/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Shivang1109/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shivang1109/Leetcode/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/Shivang1109/Leetcode/tree/master/0905-sort-array-by-parity) |
