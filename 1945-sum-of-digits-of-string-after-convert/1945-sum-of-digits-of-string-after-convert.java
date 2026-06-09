@@ -2,7 +2,7 @@ class Solution {
     public int getLucky(String s, int k) {
         StringBuilder sb = new StringBuilder();
         for(int i = 0; i < s.length(); i++){
-            sb.append((int)s.charAt(i)-'a'+1);
+            sb.append(s.charAt(i)-'a'+1);
         }
         String s1 = sb.toString();
         int sum=0;
