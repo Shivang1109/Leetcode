@@ -1,25 +1,14 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        char c=' ';
-        HashMap<Character,Integer> map=new HashMap<>();
+        int xor1=0;
+        int xor2=0;
         for(int i=0;i<s.length();i++){
-            if(map.containsKey(s.charAt(i))){
-                map.put(s.charAt(i),map.get(s.charAt(i))+1);
-            }
-            else{
-                map.put(s.charAt(i),1);
-            }
+            xor1=xor1^s.charAt(i);
         }
-        System.out.println(map);
         for(int i=0;i<t.length();i++){
-            if(map.containsKey(t.charAt(i)) && map.get(t.charAt(i))>0 ){
-                map.put(t.charAt(i),map.get(t.charAt(i))-1);
-            }
-            else{
-                c=t.charAt(i);
-            }
-
+            xor2=xor2^t.charAt(i);
         }
+        char c=(char)(xor1^xor2);
         return c;
     }
 }
