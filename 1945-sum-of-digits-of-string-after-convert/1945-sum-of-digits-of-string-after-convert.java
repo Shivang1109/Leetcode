@@ -7,7 +7,7 @@ class Solution {
         String s1 = sb.toString();
         int sum=0;
             for(int i = 0; i < s1.length(); i++){
-                sum+=(int)s1.charAt(i)-'1'+1;
+                sum+=(int)s1.charAt(i)-'0';
             }
             int j=1;
             if(k==1){
