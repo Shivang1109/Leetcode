@@ -162,6 +162,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0075-sort-colors](https://github.com/Shivang1109/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Shivang1109/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shivang1109/Leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Shivang1109/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Shivang1109/Leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivang1109/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shivang1109/Leetcode/tree/master/0268-missing-number) |
@@ -222,6 +223,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0070-climbing-stairs](https://github.com/Shivang1109/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Shivang1109/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Shivang1109/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/Shivang1109/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shivang1109/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shivang1109/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Shivang1109/Leetcode/tree/master/0263-ugly-number) |
@@ -272,6 +274,7 @@ If you find this repository helpful, consider giving it a **star**!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Shivang1109/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Shivang1109/Leetcode/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Shivang1109/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivang1109/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -281,6 +284,7 @@ If you find this repository helpful, consider giving it a **star**!
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Shivang1109/Leetcode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Shivang1109/Leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Shivang1109/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shivang1109/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
