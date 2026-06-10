@@ -1,23 +1,21 @@
 class Solution {
     public int[] scoreValidator(String[] events) {
-        int score=0;
-        int counter=0;
-        for(String event : events){
-            if(event.matches("[0-6]")){
-                int num=Integer.parseInt(event);
-                score+=num;
+        int c=0;
+        int sc=0;
+        for(int i=0;i<events.length;i++){
+            if(c==10){
+                break;
             }
-            else if(event.equals("W")){
-                counter++;
+            if(events[i].equals("W")){
+                c++;
+            }
+            else if(events[i].equals("WD")||events[i].equals("NB")){
+                sc++;
             }
             else{
-                score++;
-            }
-            if(counter==10){
-                return new int[]{score,counter};
-
+                sc+=Integer.parseInt(events[i]);
             }
         }
-        return new int[]{score,counter};
+        return new int[]{sc,c};
     }
 }
