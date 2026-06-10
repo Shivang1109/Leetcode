@@ -321,6 +321,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Shivang1109/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3019-number-of-changing-keys](https://github.com/Shivang1109/Leetcode/tree/master/3019-number-of-changing-keys) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Shivang1109/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3931-check-adjacent-digit-differences](https://github.com/Shivang1109/Leetcode/tree/master/3931-check-adjacent-digit-differences) |
 ## Bit Manipulation
 |  |
 | ------- |
