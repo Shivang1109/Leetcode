@@ -279,6 +279,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3536-maximum-product-of-two-digits](https://github.com/Shivang1109/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivang1109/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shivang1109/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shivang1109/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shivang1109/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Number Theory
 |  |
@@ -323,6 +324,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Shivang1109/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Shivang1109/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3019-number-of-changing-keys](https://github.com/Shivang1109/Leetcode/tree/master/3019-number-of-changing-keys) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shivang1109/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3798-largest-even-number](https://github.com/Shivang1109/Leetcode/tree/master/3798-largest-even-number) |
 | [3813-vowel-consonant-score](https://github.com/Shivang1109/Leetcode/tree/master/3813-vowel-consonant-score) |
 | [3838-weighted-word-mapping](https://github.com/Shivang1109/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -344,6 +346,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1486-xor-operation-in-an-array](https://github.com/Shivang1109/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/Shivang1109/Leetcode/tree/master/1720-decode-xored-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shivang1109/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shivang1109/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -477,6 +480,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [2540-minimum-common-value](https://github.com/Shivang1109/Leetcode/tree/master/2540-minimum-common-value) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Shivang1109/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shivang1109/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shivang1109/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Shivang1109/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Counting
 |  |
