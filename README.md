@@ -324,6 +324,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Shivang1109/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Shivang1109/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3019-number-of-changing-keys](https://github.com/Shivang1109/Leetcode/tree/master/3019-number-of-changing-keys) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shivang1109/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shivang1109/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3798-largest-even-number](https://github.com/Shivang1109/Leetcode/tree/master/3798-largest-even-number) |
 | [3813-vowel-consonant-score](https://github.com/Shivang1109/Leetcode/tree/master/3813-vowel-consonant-score) |
@@ -420,6 +421,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1688-count-of-matches-in-tournament](https://github.com/Shivang1109/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shivang1109/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Shivang1109/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shivang1109/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shivang1109/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Shivang1109/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3813-vowel-consonant-score](https://github.com/Shivang1109/Leetcode/tree/master/3813-vowel-consonant-score) |
