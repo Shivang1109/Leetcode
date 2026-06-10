@@ -327,6 +327,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Shivang1109/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Shivang1109/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3019-number-of-changing-keys](https://github.com/Shivang1109/Leetcode/tree/master/3019-number-of-changing-keys) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Shivang1109/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3210-find-the-encrypted-string](https://github.com/Shivang1109/Leetcode/tree/master/3210-find-the-encrypted-string) |
 | [3248-snake-in-matrix](https://github.com/Shivang1109/Leetcode/tree/master/3248-snake-in-matrix) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Shivang1109/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -429,6 +430,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1688-count-of-matches-in-tournament](https://github.com/Shivang1109/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shivang1109/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Shivang1109/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Shivang1109/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3248-snake-in-matrix](https://github.com/Shivang1109/Leetcode/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shivang1109/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shivang1109/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
