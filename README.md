@@ -205,6 +205,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [2540-minimum-common-value](https://github.com/Shivang1109/Leetcode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Shivang1109/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shivang1109/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2678-number-of-senior-citizens](https://github.com/Shivang1109/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Shivang1109/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shivang1109/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Shivang1109/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -327,6 +328,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1528-shuffle-string](https://github.com/Shivang1109/Leetcode/tree/master/1528-shuffle-string) |
 | [1629-slowest-key](https://github.com/Shivang1109/Leetcode/tree/master/1629-slowest-key) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Shivang1109/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2678-number-of-senior-citizens](https://github.com/Shivang1109/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Shivang1109/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/Shivang1109/Leetcode/tree/master/2716-minimize-string-length) |
 | [2810-faulty-keyboard](https://github.com/Shivang1109/Leetcode/tree/master/2810-faulty-keyboard) |
