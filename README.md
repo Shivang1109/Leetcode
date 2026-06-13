@@ -330,6 +330,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1528-shuffle-string](https://github.com/Shivang1109/Leetcode/tree/master/1528-shuffle-string) |
 | [1629-slowest-key](https://github.com/Shivang1109/Leetcode/tree/master/1629-slowest-key) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Shivang1109/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2278-percentage-of-letter-in-string](https://github.com/Shivang1109/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2678-number-of-senior-citizens](https://github.com/Shivang1109/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Shivang1109/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/Shivang1109/Leetcode/tree/master/2716-minimize-string-length) |
