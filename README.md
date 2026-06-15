@@ -335,6 +335,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Shivang1109/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shivang1109/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shivang1109/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Shivang1109/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Shivang1109/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2278-percentage-of-letter-in-string](https://github.com/Shivang1109/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2678-number-of-senior-citizens](https://github.com/Shivang1109/Leetcode/tree/master/2678-number-of-senior-citizens) |
