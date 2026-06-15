@@ -10,14 +10,12 @@ class Solution {
     }
 
     public String firstPalindrome(String[] words) {
-         StringBuilder sb=new StringBuilder();
-        for(int i=0; i<words.length; i++){
-            if(isPalindrome(words[i])){
-                sb.append(words[i]);
-                break;
+        for(String word: words){
+            if(isPalindrome(word)){
+                return word;
             }
         }
-        return sb.toString();
+        return "";
         
     }
 }
