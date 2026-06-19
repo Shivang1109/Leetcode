@@ -337,6 +337,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1629-slowest-key](https://github.com/Shivang1109/Leetcode/tree/master/1629-slowest-key) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Shivang1109/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shivang1109/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Shivang1109/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Shivang1109/Leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Shivang1109/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Shivang1109/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -485,6 +486,7 @@ If you find this repository helpful, consider giving it a **star**!
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Shivang1109/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Shivang1109/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shivang1109/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Shivang1109/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shivang1109/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
