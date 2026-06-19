@@ -338,6 +338,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0806-number-of-lines-to-write-string](https://github.com/Shivang1109/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [1528-shuffle-string](https://github.com/Shivang1109/Leetcode/tree/master/1528-shuffle-string) |
 | [1629-slowest-key](https://github.com/Shivang1109/Leetcode/tree/master/1629-slowest-key) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Shivang1109/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Shivang1109/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/Shivang1109/Leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivang1109/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -434,6 +435,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0771-jewels-and-stones](https://github.com/Shivang1109/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shivang1109/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/Shivang1109/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Shivang1109/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivang1109/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shivang1109/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Shivang1109/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
