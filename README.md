@@ -338,6 +338,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0806-number-of-lines-to-write-string](https://github.com/Shivang1109/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [1528-shuffle-string](https://github.com/Shivang1109/Leetcode/tree/master/1528-shuffle-string) |
 | [1629-slowest-key](https://github.com/Shivang1109/Leetcode/tree/master/1629-slowest-key) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/Shivang1109/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1768-merge-strings-alternately](https://github.com/Shivang1109/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shivang1109/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Shivang1109/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -504,6 +505,7 @@ If you find this repository helpful, consider giving it a **star**!
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Shivang1109/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/Shivang1109/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Shivang1109/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Shivang1109/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shivang1109/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
