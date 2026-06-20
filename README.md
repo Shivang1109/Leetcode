@@ -338,6 +338,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0806-number-of-lines-to-write-string](https://github.com/Shivang1109/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [1528-shuffle-string](https://github.com/Shivang1109/Leetcode/tree/master/1528-shuffle-string) |
 | [1629-slowest-key](https://github.com/Shivang1109/Leetcode/tree/master/1629-slowest-key) |
+| [1678-goal-parser-interpretation](https://github.com/Shivang1109/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Shivang1109/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Shivang1109/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1768-merge-strings-alternately](https://github.com/Shivang1109/Leetcode/tree/master/1768-merge-strings-alternately) |
