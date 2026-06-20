@@ -337,6 +337,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0709-to-lower-case](https://github.com/Shivang1109/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Shivang1109/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/Shivang1109/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [1496-path-crossing](https://github.com/Shivang1109/Leetcode/tree/master/1496-path-crossing) |
 | [1507-reformat-date](https://github.com/Shivang1109/Leetcode/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/Shivang1109/Leetcode/tree/master/1528-shuffle-string) |
 | [1629-slowest-key](https://github.com/Shivang1109/Leetcode/tree/master/1629-slowest-key) |
@@ -441,6 +442,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0423-reconstruct-original-digits-from-english](https://github.com/Shivang1109/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0771-jewels-and-stones](https://github.com/Shivang1109/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shivang1109/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1496-path-crossing](https://github.com/Shivang1109/Leetcode/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/Shivang1109/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shivang1109/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivang1109/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
