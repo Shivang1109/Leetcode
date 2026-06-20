@@ -8,8 +8,6 @@ class Solution {
         for(String word : word2) {
             sb2.append(word);
         }
-        String s1 = sb1.toString();
-        String s2 = sb2.toString();
-        return s1.equals(s2);
+        return sb1.toString().equals(sb2.toString());
     }
 }
