@@ -1,15 +1,18 @@
 class Solution {
     public int minElement(int[] nums) {
-        int min=Integer.MAX_VALUE;
-        for(int val : nums) {
-            String s = String.valueOf(val);
+        for(int i=0;i<nums.length;i++){
             int sum=0;
-            for(int i = 0; i < s.length(); i++) {
-                char c = s.charAt(i);
-                sum+=c-'0';
-
+            int temp = nums[i];
+            while(temp>0){
+                int rem=temp%10;
+                temp/=10;
+                sum+=rem;
             }
-            min=Math.min(sum,min);
+            nums[i]=sum;
+        }
+        int min=Integer.MAX_VALUE;
+        for(int i=0;i<nums.length;i++){
+            min=Math.min(min,nums[i]);
         }
         return min;
         
