@@ -262,6 +262,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivang1109/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Shivang1109/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/Shivang1109/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1154-day-of-the-year](https://github.com/Shivang1109/Leetcode/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shivang1109/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shivang1109/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/Shivang1109/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
@@ -342,6 +343,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0709-to-lower-case](https://github.com/Shivang1109/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Shivang1109/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/Shivang1109/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [1154-day-of-the-year](https://github.com/Shivang1109/Leetcode/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/Shivang1109/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Shivang1109/Leetcode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1360-number-of-days-between-two-dates](https://github.com/Shivang1109/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
