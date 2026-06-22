@@ -343,6 +343,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0771-jewels-and-stones](https://github.com/Shivang1109/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/Shivang1109/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Shivang1109/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Shivang1109/Leetcode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1360-number-of-days-between-two-dates](https://github.com/Shivang1109/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Shivang1109/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1446-consecutive-characters](https://github.com/Shivang1109/Leetcode/tree/master/1446-consecutive-characters) |
