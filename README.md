@@ -339,6 +339,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0412-fizz-buzz](https://github.com/Shivang1109/Leetcode/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Shivang1109/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0504-base-7](https://github.com/Shivang1109/Leetcode/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/Shivang1109/Leetcode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Shivang1109/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shivang1109/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shivang1109/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
