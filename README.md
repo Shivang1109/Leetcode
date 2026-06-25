@@ -338,6 +338,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0389-find-the-difference](https://github.com/Shivang1109/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Shivang1109/Leetcode/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Shivang1109/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0434-number-of-segments-in-a-string](https://github.com/Shivang1109/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/Shivang1109/Leetcode/tree/master/0482-license-key-formatting) |
 | [0504-base-7](https://github.com/Shivang1109/Leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Shivang1109/Leetcode/tree/master/0520-detect-capital) |
