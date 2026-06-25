@@ -334,6 +334,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0171-excel-sheet-column-number](https://github.com/Shivang1109/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Shivang1109/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shivang1109/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shivang1109/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Shivang1109/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivang1109/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shivang1109/Leetcode/tree/master/0389-find-the-difference) |
@@ -586,6 +587,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0202-happy-number](https://github.com/Shivang1109/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shivang1109/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shivang1109/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shivang1109/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shivang1109/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/Shivang1109/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Shivang1109/Leetcode/tree/master/0917-reverse-only-letters) |
