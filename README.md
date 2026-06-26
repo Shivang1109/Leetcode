@@ -234,6 +234,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3701-compute-alternating-sum](https://github.com/Shivang1109/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Shivang1109/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/Shivang1109/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Shivang1109/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3921-score-validator](https://github.com/Shivang1109/Leetcode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shivang1109/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Shivang1109/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -580,6 +581,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0867-transpose-matrix](https://github.com/Shivang1109/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Shivang1109/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Shivang1109/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Shivang1109/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -672,4 +674,8 @@ If you find this repository helpful, consider giving it a **star**!
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Shivang1109/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Shivang1109/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
