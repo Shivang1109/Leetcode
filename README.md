@@ -234,6 +234,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3701-compute-alternating-sum](https://github.com/Shivang1109/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Shivang1109/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/Shivang1109/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Shivang1109/Leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shivang1109/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3921-score-validator](https://github.com/Shivang1109/Leetcode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shivang1109/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -325,6 +326,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1952-three-divisors](https://github.com/Shivang1109/Leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Shivang1109/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shivang1109/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Shivang1109/Leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## String
 |  |
 | ------- |
