@@ -236,6 +236,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3838-weighted-word-mapping](https://github.com/Shivang1109/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/Shivang1109/Leetcode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shivang1109/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Shivang1109/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Math
 |  |
 | ------- |
@@ -608,6 +609,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shivang1109/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shivang1109/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Shivang1109/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Shivang1109/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Counting
 |  |
 | ------- |
