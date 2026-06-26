@@ -234,6 +234,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3701-compute-alternating-sum](https://github.com/Shivang1109/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Shivang1109/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/Shivang1109/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3866-first-unique-even-element](https://github.com/Shivang1109/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Shivang1109/Leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shivang1109/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3921-score-validator](https://github.com/Shivang1109/Leetcode/tree/master/3921-score-validator) |
@@ -494,6 +495,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shivang1109/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Shivang1109/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Shivang1109/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3866-first-unique-even-element](https://github.com/Shivang1109/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
 | ------- |
@@ -627,6 +629,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [2053-kth-distinct-string-in-an-array](https://github.com/Shivang1109/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Shivang1109/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shivang1109/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3866-first-unique-even-element](https://github.com/Shivang1109/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Prefix Sum
 |  |
 | ------- |
