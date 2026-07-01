@@ -159,6 +159,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0027-remove-element](https://github.com/Shivang1109/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shivang1109/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Shivang1109/Leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Shivang1109/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shivang1109/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Shivang1109/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Shivang1109/Leetcode/tree/master/0136-single-number) |
@@ -249,6 +250,7 @@ If you find this repository helpful, consider giving it a **star**!
 | ------- |
 | [0007-reverse-integer](https://github.com/Shivang1109/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shivang1109/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Shivang1109/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Shivang1109/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shivang1109/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Shivang1109/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -588,6 +590,7 @@ If you find this repository helpful, consider giving it a **star**!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shivang1109/Leetcode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivang1109/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Shivang1109/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Shivang1109/Leetcode/tree/master/1572-matrix-diagonal-sum) |
