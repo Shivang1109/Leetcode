@@ -170,6 +170,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivang1109/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shivang1109/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shivang1109/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Shivang1109/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Shivang1109/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Shivang1109/Leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivang1109/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -262,6 +263,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0070-climbing-stairs](https://github.com/Shivang1109/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Shivang1109/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Shivang1109/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/Shivang1109/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shivang1109/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Shivang1109/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shivang1109/Leetcode/tree/master/0231-power-of-two) |
@@ -621,6 +623,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0075-sort-colors](https://github.com/Shivang1109/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Shivang1109/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivang1109/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Shivang1109/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shivang1109/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shivang1109/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shivang1109/Leetcode/tree/master/0344-reverse-string) |
