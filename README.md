@@ -177,6 +177,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivang1109/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shivang1109/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivang1109/Leetcode/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/Shivang1109/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Shivang1109/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivang1109/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Shivang1109/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -484,6 +485,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0268-missing-number](https://github.com/Shivang1109/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Shivang1109/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shivang1109/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/Shivang1109/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Shivang1109/Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivang1109/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shivang1109/Leetcode/tree/master/0704-binary-search) |
@@ -590,6 +592,7 @@ If you find this repository helpful, consider giving it a **star**!
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Shivang1109/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/Shivang1109/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Shivang1109/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shivang1109/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -611,6 +614,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0053-maximum-subarray](https://github.com/Shivang1109/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Shivang1109/Leetcode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Shivang1109/Leetcode/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/Shivang1109/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Shivang1109/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Shivang1109/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Matrix
@@ -673,6 +677,7 @@ If you find this repository helpful, consider giving it a **star**!
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Shivang1109/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/Shivang1109/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivang1109/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Shivang1109/Leetcode/tree/master/1732-find-the-highest-altitude) |
