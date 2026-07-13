@@ -175,6 +175,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0189-rotate-array](https://github.com/Shivang1109/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Shivang1109/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Shivang1109/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Shivang1109/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivang1109/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shivang1109/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivang1109/Leetcode/tree/master/0283-move-zeroes) |
@@ -680,6 +681,7 @@ If you find this repository helpful, consider giving it a **star**!
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Shivang1109/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Shivang1109/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/Shivang1109/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivang1109/Leetcode/tree/master/1480-running-sum-of-1d-array) |
