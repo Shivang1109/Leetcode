@@ -2,8 +2,7 @@ class Solution {
     public static boolean isValid(int[] arr, long mid, int noOfTrips){
         long total=0;
         for(int i:arr){
-            long temp=mid/i;
-            total+=temp;
+            total+=mid/i;
             if(total>=noOfTrips){
                 return true;
             }
