@@ -235,6 +235,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shivang1109/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Shivang1109/Leetcode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Shivang1109/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2594-minimum-time-to-repair-cars](https://github.com/Shivang1109/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shivang1109/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2678-number-of-senior-citizens](https://github.com/Shivang1109/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Shivang1109/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -499,6 +500,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shivang1109/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shivang1109/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Shivang1109/Leetcode/tree/master/2540-minimum-common-value) |
+| [2594-minimum-time-to-repair-cars](https://github.com/Shivang1109/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 ## Hash Table
 |  |
 | ------- |
