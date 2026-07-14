@@ -208,6 +208,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1512-number-of-good-pairs](https://github.com/Shivang1109/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Shivang1109/Leetcode/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/Shivang1109/Leetcode/tree/master/1550-three-consecutive-odds) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Shivang1109/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/Shivang1109/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Shivang1109/Leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1629-slowest-key](https://github.com/Shivang1109/Leetcode/tree/master/1629-slowest-key) |
@@ -499,6 +500,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivang1109/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivang1109/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shivang1109/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Shivang1109/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Shivang1109/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shivang1109/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Shivang1109/Leetcode/tree/master/2540-minimum-common-value) |
@@ -555,6 +557,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shivang1109/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivang1109/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Shivang1109/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Shivang1109/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Shivang1109/Leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shivang1109/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivang1109/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
