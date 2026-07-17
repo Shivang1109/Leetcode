@@ -171,6 +171,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0136-single-number](https://github.com/Shivang1109/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivang1109/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shivang1109/Leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivang1109/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Shivang1109/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shivang1109/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Shivang1109/Leetcode/tree/master/0204-count-primes) |
@@ -487,6 +488,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0074-search-a-2d-matrix](https://github.com/Shivang1109/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivang1109/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shivang1109/Leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivang1109/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivang1109/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shivang1109/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Shivang1109/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -649,6 +651,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0075-sort-colors](https://github.com/Shivang1109/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Shivang1109/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivang1109/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivang1109/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Shivang1109/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shivang1109/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shivang1109/Leetcode/tree/master/0283-move-zeroes) |
