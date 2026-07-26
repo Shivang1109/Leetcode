@@ -162,6 +162,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivang1109/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shivang1109/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Shivang1109/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Shivang1109/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Shivang1109/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Shivang1109/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shivang1109/Leetcode/tree/master/0053-maximum-subarray) |
@@ -760,5 +761,6 @@ If you find this repository helpful, consider giving it a **star**!
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Shivang1109/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Shivang1109/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Shivang1109/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
