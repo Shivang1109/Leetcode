@@ -334,6 +334,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [2769-find-the-maximum-achievable-number](https://github.com/Shivang1109/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Shivang1109/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Shivang1109/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shivang1109/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/Shivang1109/Leetcode/tree/master/3024-type-of-triangle) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Shivang1109/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/Shivang1109/Leetcode/tree/master/3280-convert-date-to-binary) |
@@ -444,6 +445,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [2810-faulty-keyboard](https://github.com/Shivang1109/Leetcode/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Shivang1109/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Shivang1109/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shivang1109/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/Shivang1109/Leetcode/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/Shivang1109/Leetcode/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Shivang1109/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -628,6 +630,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shivang1109/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Shivang1109/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shivang1109/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shivang1109/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Divide and Conquer
 |  |
 | ------- |
