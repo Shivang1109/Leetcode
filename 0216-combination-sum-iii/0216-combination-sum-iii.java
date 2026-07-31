@@ -4,8 +4,9 @@ class Solution {
             ans.add(new ArrayList(res));
             return;
         }
+        if(res.size()==k) return;
         if(n<0) return;
-        if(i>=arr.length) return;
+        if(i==arr.length) return;
 
         res.add(arr[i]);
         solve(i+1,k,n-arr[i],arr,res,ans);
