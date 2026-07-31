@@ -9,7 +9,7 @@ class Solution {
         int count=0;
         Arrays.sort(arr);
         for(int i=25;i>=0;i--){
-            if(arr[i]==0) continue;
+            if(arr[i]==0) break;
             count++;
             ans+=arr[i]*(1+(count-1)/8);
             
