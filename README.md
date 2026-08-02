@@ -165,6 +165,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0040-combination-sum-ii](https://github.com/Shivang1109/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Shivang1109/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Shivang1109/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Shivang1109/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Shivang1109/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shivang1109/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shivang1109/Leetcode/tree/master/0054-spiral-matrix) |
@@ -566,6 +567,7 @@ If you find this repository helpful, consider giving it a **star**!
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Shivang1109/Leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Shivang1109/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shivang1109/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivang1109/Leetcode/tree/master/0217-contains-duplicate) |
@@ -781,6 +783,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0039-combination-sum](https://github.com/Shivang1109/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shivang1109/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Shivang1109/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Shivang1109/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Shivang1109/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shivang1109/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Shivang1109/Leetcode/tree/master/0216-combination-sum-iii) |
