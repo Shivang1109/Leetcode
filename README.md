@@ -201,6 +201,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shivang1109/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Shivang1109/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Shivang1109/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Shivang1109/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Shivang1109/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shivang1109/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Shivang1109/Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -302,6 +303,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0509-fibonacci-number](https://github.com/Shivang1109/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivang1109/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Shivang1109/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/Shivang1109/Leetcode/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Shivang1109/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/Shivang1109/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Shivang1109/Leetcode/tree/master/1154-day-of-the-year) |
@@ -654,6 +656,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0338-counting-bits](https://github.com/Shivang1109/Leetcode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Shivang1109/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Shivang1109/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Shivang1109/Leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Shivang1109/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Matrix
 |  |
@@ -779,4 +782,8 @@ If you find this repository helpful, consider giving it a **star**!
 | [0078-subsets](https://github.com/Shivang1109/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shivang1109/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Shivang1109/Leetcode/tree/master/0216-combination-sum-iii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shivang1109/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
