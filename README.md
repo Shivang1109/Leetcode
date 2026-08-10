@@ -161,6 +161,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivang1109/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivang1109/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shivang1109/Leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Shivang1109/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Shivang1109/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shivang1109/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Shivang1109/Leetcode/tree/master/0041-first-missing-positive) |
@@ -540,6 +541,7 @@ If you find this repository helpful, consider giving it a **star**!
 | ------- |
 | [0001-two-sum](https://github.com/Shivang1109/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivang1109/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Shivang1109/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Shivang1109/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Shivang1109/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Shivang1109/Leetcode/tree/master/0202-happy-number) |
@@ -672,6 +674,7 @@ If you find this repository helpful, consider giving it a **star**!
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shivang1109/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Shivang1109/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shivang1109/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Shivang1109/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -789,6 +792,7 @@ If you find this repository helpful, consider giving it a **star**!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivang1109/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Shivang1109/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Shivang1109/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shivang1109/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Shivang1109/Leetcode/tree/master/0046-permutations) |
@@ -805,6 +809,11 @@ If you find this repository helpful, consider giving it a **star**!
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shivang1109/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Shivang1109/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Shivang1109/Leetcode/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Shivang1109/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
