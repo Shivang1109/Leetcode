@@ -167,6 +167,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0046-permutations](https://github.com/Shivang1109/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Shivang1109/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Shivang1109/Leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Shivang1109/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Shivang1109/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shivang1109/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Shivang1109/Leetcode/tree/master/0055-jump-game) |
@@ -792,6 +793,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0040-combination-sum-ii](https://github.com/Shivang1109/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Shivang1109/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Shivang1109/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Shivang1109/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Shivang1109/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shivang1109/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Shivang1109/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -799,4 +801,8 @@ If you find this repository helpful, consider giving it a **star**!
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shivang1109/Leetcode/tree/master/0877-stone-game) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Shivang1109/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
