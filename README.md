@@ -192,6 +192,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0260-single-number-iii](https://github.com/Shivang1109/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Shivang1109/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivang1109/Leetcode/tree/master/0283-move-zeroes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shivang1109/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0410-split-array-largest-sum](https://github.com/Shivang1109/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Shivang1109/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivang1109/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -520,6 +521,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivang1109/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivang1109/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shivang1109/Leetcode/tree/master/0268-missing-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shivang1109/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0367-valid-perfect-square](https://github.com/Shivang1109/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shivang1109/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Shivang1109/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -662,6 +664,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0053-maximum-subarray](https://github.com/Shivang1109/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shivang1109/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivang1109/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shivang1109/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -819,4 +822,24 @@ If you find this repository helpful, consider giving it a **star**!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shivang1109/Leetcode/tree/master/0037-sudoku-solver) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shivang1109/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shivang1109/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shivang1109/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shivang1109/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shivang1109/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
