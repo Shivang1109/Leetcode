@@ -282,6 +282,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3921-score-validator](https://github.com/Shivang1109/Leetcode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shivang1109/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Shivang1109/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3978-unique-middle-element](https://github.com/Shivang1109/Leetcode/tree/master/3978-unique-middle-element) |
 ## Math
 |  |
 | ------- |
@@ -745,6 +746,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shivang1109/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivang1109/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3866-first-unique-even-element](https://github.com/Shivang1109/Leetcode/tree/master/3866-first-unique-even-element) |
+| [3978-unique-middle-element](https://github.com/Shivang1109/Leetcode/tree/master/3978-unique-middle-element) |
 ## Prefix Sum
 |  |
 | ------- |
