@@ -283,6 +283,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3925-concatenate-array-with-reverse](https://github.com/Shivang1109/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Shivang1109/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3978-unique-middle-element](https://github.com/Shivang1109/Leetcode/tree/master/3978-unique-middle-element) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Shivang1109/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Math
 |  |
 | ------- |
@@ -362,6 +363,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shivang1109/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shivang1109/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shivang1109/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Shivang1109/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Number Theory
 |  |
 | ------- |
