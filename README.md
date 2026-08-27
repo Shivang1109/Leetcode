@@ -647,6 +647,7 @@ If you find this repository helpful, consider giving it a **star**!
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Shivang1109/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Shivang1109/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shivang1109/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shivang1109/Leetcode/tree/master/0342-power-of-four) |
@@ -873,4 +874,8 @@ If you find this repository helpful, consider giving it a **star**!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shivang1109/Leetcode/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Shivang1109/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
