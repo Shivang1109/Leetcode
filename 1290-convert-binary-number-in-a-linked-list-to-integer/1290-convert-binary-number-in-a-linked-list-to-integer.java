@@ -10,22 +10,13 @@
  */
 class Solution {
     public int getDecimalValue(ListNode head) {
-        StringBuilder ans = new StringBuilder();
         ListNode temp = head;
+        int res = 0;
         while(temp!=null){
-            ans.append(temp.val);
+            res = res*2 + temp.val;
             temp = temp.next;
         }
-        String res = ans.toString();
-        int k = 0;
-        int num = 0;
-        for(int i = res.length()-1; i>=0; i--){
-            char ch = res.charAt(i);
-            int dig = ch - '0';
-            num += dig * (int)Math.pow(2,k);
-            k++;
-        }
-        return num;
+        return res;
         
     }
 }
