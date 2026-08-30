@@ -244,6 +244,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shivang1109/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Shivang1109/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shivang1109/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shivang1109/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shivang1109/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shivang1109/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Shivang1109/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
@@ -669,6 +670,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Shivang1109/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Shivang1109/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shivang1109/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shivang1109/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Shivang1109/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shivang1109/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shivang1109/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
