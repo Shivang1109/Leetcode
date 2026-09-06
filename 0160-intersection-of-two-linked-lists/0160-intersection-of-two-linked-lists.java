@@ -27,15 +27,13 @@ public class Solution {
         a = headA;
         b = headB;
         if(countA > countB){
-            while(diff>0){
+            for(int i=1;i<=diff;i++){
                 a = a.next;
-                diff--;
             }
         }
         else if(countB > countA){
-            while(diff>0){
-                b= b.next;
-                diff--;
+            for(int i=1;i<=diff;i++){
+                b = b.next;
             }
         }
         while(a != b){
