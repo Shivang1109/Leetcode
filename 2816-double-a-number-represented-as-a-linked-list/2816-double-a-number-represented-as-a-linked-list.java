@@ -24,18 +24,17 @@ class Solution {
         ListNode revHead = reverse(head);
         ListNode temp = revHead;
         int carry = 0;
-        while(revHead != null){
-            int prod = (revHead.val * 2) + carry;
-            revHead.val = prod % 10;
+        while(temp != null){
+            int prod = (temp.val * 2) + carry;
+            temp.val = prod % 10;
             carry = prod / 10;
-            revHead = revHead.next;
+            temp = temp.next;
         }
-        ListNode dummy = new ListNode(-1);
-        head = reverse(temp);
+        head = reverse(revHead);
         if(carry != 0){
-            dummy.val = carry;
-            dummy.next = head;
-            return dummy;
+            ListNode newNode = new ListNode(carry);
+            newNode.next = head;
+            head = newNode;
         }
         return head;
         
