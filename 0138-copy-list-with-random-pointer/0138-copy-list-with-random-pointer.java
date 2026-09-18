@@ -15,37 +15,34 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
-        if(head == null){
-            return head;
-        }
-        Node temp = head.next;
-        Node newHead = new Node(head.val);
-        Node newNode = newHead;
+        if(head == null) return head;
+        Node temp = head;
+        //1 add copy nodes in between original nodes;
         while(temp != null){
-            Node curr = new Node(temp.val);
-            newNode.next = curr;
-            newNode = curr;
-            temp = temp.next;
+            Node newNode = new Node(temp.val);
+            newNode.next = temp.next;
+            temp.next = newNode;
+            temp = newNode.next;
         }
-        HashMap<Node,Node> map = new HashMap<>();
-        Node temp1 = head;
-        Node temp2 = newHead;
-        while(temp1 != null){
-            map.put(temp1,temp2);
-            temp1 = temp1.next;
-            temp2 = temp2.next;
+        //2 random pointer manipulation;
+        Node oldNode = head;
+        Node newNode = head.next;
+        while(oldNode != null){
+            if(oldNode.random == null) newNode.random = null;
+            else newNode.random = oldNode.random.next;
+            oldNode = newNode.next;
+            newNode = oldNode !=null ? oldNode.next : null;
         }
-        temp1 = head;
-        temp2 = newHead;
-        while(temp1 != null){
-            temp2.random = map.get(temp1.random);
-            temp1 = temp1.next;
-            temp2 = temp2.next;
-        }
-        return newHead;
-
-
+        oldNode = head;
+        newNode = head.next;
+        Node ans = head.next;
+        while(oldNode != null){
+            oldNode.next = newNode.next;
+            oldNode = oldNode.next;
+            newNode.next = oldNode != null ? oldNode.next : null;
+            newNode = newNode.next != null ? newNode.next : null;
         
-        
+        }
+        return ans;
     }
 }
