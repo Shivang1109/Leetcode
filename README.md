@@ -353,6 +353,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [2652-sum-multiples](https://github.com/Shivang1109/Leetcode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shivang1109/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Shivang1109/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shivang1109/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Shivang1109/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shivang1109/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/Shivang1109/Leetcode/tree/master/3024-type-of-triangle) |
@@ -520,6 +521,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shivang1109/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/Shivang1109/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Shivang1109/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shivang1109/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -926,6 +928,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shivang1109/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shivang1109/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Shivang1109/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shivang1109/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
