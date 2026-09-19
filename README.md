@@ -326,6 +326,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shivang1109/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shivang1109/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/Shivang1109/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Shivang1109/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/Shivang1109/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shivang1109/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shivang1109/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -950,4 +951,8 @@ If you find this repository helpful, consider giving it a **star**!
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shivang1109/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Shivang1109/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
