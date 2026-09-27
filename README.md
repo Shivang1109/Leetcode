@@ -432,6 +432,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1108-defanging-an-ip-address](https://github.com/Shivang1109/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/Shivang1109/Leetcode/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/Shivang1109/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Shivang1109/Leetcode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1360-number-of-days-between-two-dates](https://github.com/Shivang1109/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Shivang1109/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
@@ -521,6 +522,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0155-min-stack](https://github.com/Shivang1109/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Shivang1109/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivang1109/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shivang1109/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/Shivang1109/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Shivang1109/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -966,4 +968,8 @@ If you find this repository helpful, consider giving it a **star**!
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shivang1109/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
