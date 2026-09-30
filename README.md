@@ -289,6 +289,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3978-unique-middle-element](https://github.com/Shivang1109/Leetcode/tree/master/3978-unique-middle-element) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Shivang1109/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/Shivang1109/Leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/Shivang1109/Leetcode/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Math
 |  |
 | ------- |
@@ -563,6 +564,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shivang1109/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Shivang1109/Leetcode/tree/master/2540-minimum-common-value) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Shivang1109/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/Shivang1109/Leetcode/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -607,6 +609,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Shivang1109/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3731-find-missing-elements](https://github.com/Shivang1109/Leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Shivang1109/Leetcode/tree/master/3866-first-unique-even-element) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/Shivang1109/Leetcode/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -807,6 +810,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1732-find-the-highest-altitude](https://github.com/Shivang1109/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivang1109/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Shivang1109/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/Shivang1109/Leetcode/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
