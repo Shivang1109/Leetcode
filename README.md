@@ -290,6 +290,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Shivang1109/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/Shivang1109/Leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/Shivang1109/Leetcode/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Shivang1109/Leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Math
 |  |
 | ------- |
@@ -610,6 +611,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3731-find-missing-elements](https://github.com/Shivang1109/Leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Shivang1109/Leetcode/tree/master/3866-first-unique-even-element) |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/Shivang1109/Leetcode/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Shivang1109/Leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -800,6 +802,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivang1109/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3866-first-unique-even-element](https://github.com/Shivang1109/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3978-unique-middle-element](https://github.com/Shivang1109/Leetcode/tree/master/3978-unique-middle-element) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Shivang1109/Leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Prefix Sum
 |  |
 | ------- |
