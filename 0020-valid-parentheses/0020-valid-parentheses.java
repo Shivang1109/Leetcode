@@ -9,9 +9,10 @@ class Solution {
                 if(st.isEmpty()){
                     return false;
                 }
-                if(ch==')' && st.pop()!='(' || ch=='}' && st.pop()!='{' || ch==']' && st.pop()!='['){
-                    return false;
-                }
+                char top=st.pop();
+                if(ch==')' && top!='(') return false;
+                if(ch=='}' && top!='{') return false;
+                if(ch==']' && top!='[') return false;
             }
         }
         return st.isEmpty();        
