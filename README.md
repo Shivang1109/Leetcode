@@ -411,6 +411,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0171-excel-sheet-column-number](https://github.com/Shivang1109/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Shivang1109/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Shivang1109/Leetcode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Shivang1109/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivang1109/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Shivang1109/Leetcode/tree/master/0383-ransom-note) |
@@ -891,6 +892,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0078-subsets](https://github.com/Shivang1109/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shivang1109/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Shivang1109/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Game Theory
 |  |
 | ------- |
@@ -1005,4 +1007,8 @@ If you find this repository helpful, consider giving it a **star**!
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivang1109/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
