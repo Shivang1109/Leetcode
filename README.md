@@ -452,6 +452,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1496-path-crossing](https://github.com/Shivang1109/Leetcode/tree/master/1496-path-crossing) |
 | [1507-reformat-date](https://github.com/Shivang1109/Leetcode/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/Shivang1109/Leetcode/tree/master/1528-shuffle-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shivang1109/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1629-slowest-key](https://github.com/Shivang1109/Leetcode/tree/master/1629-slowest-key) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shivang1109/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -540,6 +541,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1021-remove-outermost-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivang1109/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shivang1109/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shivang1109/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/Shivang1109/Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -708,6 +710,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0678-valid-parenthesis-string](https://github.com/Shivang1109/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivang1109/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/Shivang1109/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shivang1109/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Shivang1109/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shivang1109/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivang1109/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -1009,6 +1012,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivang1109/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shivang1109/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search
 |  |
