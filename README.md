@@ -262,6 +262,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [2733-neither-minimum-nor-maximum](https://github.com/Shivang1109/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shivang1109/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Shivang1109/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shivang1109/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Shivang1109/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2942-find-words-containing-character](https://github.com/Shivang1109/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shivang1109/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -526,6 +527,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shivang1109/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Shivang1109/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/Shivang1109/Leetcode/tree/master/1720-decode-xored-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shivang1109/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shivang1109/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shivang1109/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shivang1109/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -619,6 +621,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Shivang1109/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2540-minimum-common-value](https://github.com/Shivang1109/Leetcode/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/Shivang1109/Leetcode/tree/master/2716-minimize-string-length) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shivang1109/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shivang1109/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shivang1109/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivang1109/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -724,6 +727,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shivang1109/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Shivang1109/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shivang1109/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shivang1109/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shivang1109/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivang1109/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
