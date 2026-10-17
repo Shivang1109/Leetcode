@@ -277,6 +277,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shivang1109/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shivang1109/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivang1109/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shivang1109/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Shivang1109/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shivang1109/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Shivang1109/Leetcode/tree/master/3701-compute-alternating-sum) |
@@ -634,6 +635,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shivang1109/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivang1109/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Shivang1109/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shivang1109/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Shivang1109/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3731-find-missing-elements](https://github.com/Shivang1109/Leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Shivang1109/Leetcode/tree/master/3866-first-unique-even-element) |
@@ -674,6 +676,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3024-type-of-triangle](https://github.com/Shivang1109/Leetcode/tree/master/3024-type-of-triangle) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shivang1109/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shivang1109/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shivang1109/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shivang1109/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Shivang1109/Leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Shivang1109/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
