@@ -290,6 +290,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3866-first-unique-even-element](https://github.com/Shivang1109/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shivang1109/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Shivang1109/Leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3886-sum-of-sortable-integers](https://github.com/Shivang1109/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shivang1109/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3921-score-validator](https://github.com/Shivang1109/Leetcode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shivang1109/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -385,6 +386,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shivang1109/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shivang1109/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shivang1109/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/Shivang1109/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Shivang1109/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/Shivang1109/Leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Number Theory
@@ -406,6 +408,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shivang1109/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shivang1109/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Shivang1109/Leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3886-sum-of-sortable-integers](https://github.com/Shivang1109/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -685,6 +688,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shivang1109/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Shivang1109/Leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Shivang1109/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Shivang1109/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
 | ------- |
