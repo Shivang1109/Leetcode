@@ -295,6 +295,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3921-score-validator](https://github.com/Shivang1109/Leetcode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shivang1109/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Shivang1109/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Shivang1109/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3978-unique-middle-element](https://github.com/Shivang1109/Leetcode/tree/master/3978-unique-middle-element) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Shivang1109/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/Shivang1109/Leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
