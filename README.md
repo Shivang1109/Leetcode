@@ -281,6 +281,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shivang1109/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivang1109/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shivang1109/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shivang1109/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shivang1109/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Shivang1109/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shivang1109/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -797,6 +798,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1254-number-of-closed-islands](https://github.com/Shivang1109/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/Shivang1109/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Shivang1109/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shivang1109/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shivang1109/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
@@ -1035,6 +1037,7 @@ If you find this repository helpful, consider giving it a **star**!
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Shivang1109/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1254-number-of-closed-islands](https://github.com/Shivang1109/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shivang1109/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1065,6 +1068,7 @@ If you find this repository helpful, consider giving it a **star**!
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Shivang1109/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Shivang1109/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shivang1109/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -1074,6 +1078,7 @@ If you find this repository helpful, consider giving it a **star**!
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Shivang1109/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shivang1109/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shivang1109/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
