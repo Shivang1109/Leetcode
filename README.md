@@ -293,6 +293,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3866-first-unique-even-element](https://github.com/Shivang1109/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shivang1109/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Shivang1109/Leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shivang1109/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Shivang1109/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shivang1109/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3921-score-validator](https://github.com/Shivang1109/Leetcode/tree/master/3921-score-validator) |
@@ -549,6 +550,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shivang1109/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Shivang1109/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shivang1109/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shivang1109/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -785,6 +787,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [0877-stone-game](https://github.com/Shivang1109/Leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Shivang1109/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shivang1109/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shivang1109/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -799,6 +802,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1572-matrix-diagonal-sum](https://github.com/Shivang1109/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Shivang1109/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shivang1109/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shivang1109/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shivang1109/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
