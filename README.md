@@ -261,6 +261,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shivang1109/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shivang1109/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Shivang1109/Leetcode/tree/master/2540-minimum-common-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shivang1109/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/Shivang1109/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Shivang1109/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shivang1109/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -701,6 +702,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivang1109/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shivang1109/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shivang1109/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shivang1109/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Shivang1109/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shivang1109/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivang1109/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -769,6 +771,7 @@ If you find this repository helpful, consider giving it a **star**!
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shivang1109/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shivang1109/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shivang1109/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shivang1109/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Shivang1109/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shivang1109/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shivang1109/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
