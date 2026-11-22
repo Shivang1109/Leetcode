@@ -9,11 +9,6 @@ class Solution {
             }
         }
         int indA=s.lastIndexOf('a');
-        if(indA>indB){
-            return false;
-        }
-        else{
-            return true;
-        }
+        return indA < indB;
     }
 }
